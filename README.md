@@ -4,6 +4,12 @@ This repository open-sources the **testing code**, **MQTT communication code**, 
 
 **Not included**: any model training code, model weights/checkpoints, large datasets, or environment-specific/private configuration.
 
+## Visualization
+
+Example visualization (from `visual-PreMixHuge/299.jpg`):
+
+![Visualization example](visual-PreMixHuge/299.jpg)
+
 ## Features
 
 - **MQTT client/server demo** for message publishing/subscribing
